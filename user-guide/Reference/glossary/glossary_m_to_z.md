@@ -231,6 +231,7 @@ See [Glossary (A to L)](xref:glossary_a_to_l).
 | Spectrum thumbnail | Image displaying a spectrum graph, which can for example be embedded in Visual Overview.<br>See [Linking a shape to an element parameter](xref:Linking_a_shape_to_an_element_parameter). |
 | SPG | Sync Pulse Generator. Device that functions as a master timing source for other devices, by producing specific synchronization signals. |
 | SPI | Serial Peripheral Interface. Interface for serial communication, usually used to exchange data with peripheral devices. |
+| SPI (Alt)| System Performjace Indicators, introduced with SLSpiHost process in DataMiner v10.2.0 instead of SLNet intended to make investigation of system performance and issues easier. |
 | SPTS | Single Program Transport Stream. Transport stream that carries a single program. |
 | SQL | Structured Query Language. Programming language that is typically used for relational database management. |
 | SRM | Service and Resource Management. DataMiner software allowing you to virtualize your system resources, create an overview of how resources are connected within your infrastructure, and manage which resources are booked and when.<br>See [Service and Resource Management](xref:SRM#service-and-resource-management). |
